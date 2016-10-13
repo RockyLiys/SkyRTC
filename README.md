@@ -10,6 +10,7 @@
 4. 使用命令`npm install`安装所需要的库
 5. 运行命令`npm start`，建议配合`forever`
 6. 访问`localhost:3000#roomName`查看效果，其中`roomName`为进入的房间名，不同房间的用户无法互相通信
+7. 是基于https://github.com/LingyuCoder/SkyRTC-demo提交的改变,因为楼主不让提交。
 
 ##功能说明
 支持划分房间的在线音频、视频、文字聊天，提供房间内文件共享功能
